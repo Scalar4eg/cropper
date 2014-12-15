@@ -9,6 +9,10 @@
     ],
     "homepage": "http://fengyuanchen.github.io/cropper/",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/fengyuanchen/cropper/issues",
+        "source": "https://github.com/fengyuanchen/cropper"
+    },
     "authors": [
         {
             "name":     "fengyuanchen ",
