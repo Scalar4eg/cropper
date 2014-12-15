@@ -1,6 +1,6 @@
 {
     "name": "fengyuanchen/cropper",
-    "type": "library",
+    "type": "component",
     "description": "A simple jQuery image cropping plugin",
     "keywords": [
         "cropper",
